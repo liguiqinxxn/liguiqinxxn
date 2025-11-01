@@ -22,9 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liguiqinxxn?theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liguiqinxxn&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liguiqinxxn&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liguiqinxxn&layout=compact&theme=radical&langs_count=8&card_width=320" />
