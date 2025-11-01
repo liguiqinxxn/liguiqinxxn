@@ -1,12 +1,12 @@
 ## Hi there 👋
 ### I'm Lynn, I'm a Front-end Developer!
-🔭 I’m currently working on front-end component library optimization and AI capability integration (LangChain/Agent) for enterprise-level systems.
-🌱 I’m currently learning advanced Kubernetes deployment for micro-frontends and 3D data visualization with Three.js.
-👯 I’m looking to collaborate on open-source front-end component libraries or AI-assisted development tools.
-🤔 I’m looking for help with deepening the integration of LLM and complex business workflows.
-💬 Ask me about Vue3/React project architecture, CI/CD pipeline building, or component-based development best practices.
-📫 How to reach me: liguiqinxxn@163.com
-😄 Pronouns: She/Her
+- 🔭 I’m currently working on front-end component library optimization and AI capability integration (LangChain/Agent) for enterprise-level systems.
+- 🌱 I’m currently learning advanced Kubernetes deployment for micro-frontends and 3D data visualization with Three.js.
+- 👯 I’m looking to collaborate on open-source front-end component libraries or AI-assisted development tools.
+- 🤔 I’m looking for help with deepening the integration of LLM and complex business workflows.
+- 💬 Ask me about Vue3/React project architecture, CI/CD pipeline building, or component-based development best practices.
+- 📫 How to reach me: liguiqinxxn@163.com
+- 😄 Pronouns: She/Her
 <!--
 **liguiqinxxn/liguiqinxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
